@@ -97,8 +97,8 @@ background: #006400;
 background: #006400;
 }
 .bg1::after {
-background-image: url('https://aktivnyj-otdykh.ru/wp-content/uploads/2020/06/bda4eaf39a7d286c1c297dea038b52ef-1024x683.jpg');
+background-image: url('..https://aktivnyj-otdykh.ru/wp-content/uploads/2020/06/bda4eaf39a7d286c1c297dea038b52ef-1024x683.jpg');
 }
 .bg2::after {
-background-image: url('https://static.wixstatic.com/media/a661a9_9fecdbc8a9b84993a6c4659c12e86263~mv2.jpg/v1/fit/w_1000%2Ch_576%2Cal_c%2Cq_80/file.jpg');
+background-image: url(..'https://static.wixstatic.com/media/a661a9_9fecdbc8a9b84993a6c4659c12e86263~mv2.jpg/v1/fit/w_1000%2Ch_576%2Cal_c%2Cq_80/file.jpg');
 }
