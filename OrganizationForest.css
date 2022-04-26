@@ -109,7 +109,7 @@ background-size: cover;
 height: 1050px;
 }
 .bg3::after {
-background-image: url(http://ocdod74.ru/wp-content/uploads/2019/08/58ocrpzlcyy-2.jpg);
+background-image: url('http://ocdod74.ru/wp-content/uploads/2019/08/58ocrpzlcyy-2.jpg');
 background-size: cover;
 height: 1050px;
 }
