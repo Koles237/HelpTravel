@@ -109,7 +109,7 @@ background-size: cover;
 height: 1050px;
 }
 .bg3::after {
-background-image: url(https://avatars.mds.yandex.net/get-zen_doc/1877575/pub_5ff6cda9fe4e686f6a9cc644_5ff6db50af142f0b17e5d62b/scale_1200);
+background-image: url('https://avatars.mds.yandex.net/get-zen_doc/1877575/pub_5ff6cda9fe4e686f6a9cc644_5ff6db50af142f0b17e5d62b/scale_1200');
 background-size: cover;
 height: 1050px;
 }
