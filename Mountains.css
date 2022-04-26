@@ -29,15 +29,20 @@
   color: white;
 }
 
-/* Container needed to position the button. Adjust the width as needed 1 */
-.container { /* размер изображения*/
-  position: relative:;
+.text {
+  text-align: center;
   color: black;
-  width: 100%;
+  margin-top: 5%
 }
 
-/* Make the image responsive ++++++++++++++++ */
-.container img {
-  width: 100%;
-  height: auto;
+table {
+   border: 1px solid grey;
+}
+/* границы ячеек первого ряда таблицы */
+th {
+   border: 1px solid grey;
+}
+/* границы ячеек тела таблицы */
+td {
+   border: 1px solid grey;
 }
